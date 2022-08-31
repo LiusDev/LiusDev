@@ -39,16 +39,16 @@
 <h2 align="center">🌐 Socials 🌐</h2>
 <br>
 <div align="center">
-  <a href="https://facebook.com/x.quy.203" target="_blank">
+  <a href="https://facebook.com/x.quy.203" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" />
   </a>
-  <a href="https://linkedin.com/in/xquy203" target="_blank">
+  <a href="https://linkedin.com/in/xquy203" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedin" />
   </a>
-  <a href="https://instagram.com/x.quy.203" target="_blank">
+  <a href="https://instagram.com/x.quy.203" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="instagram" />
   </a>
-  <a href="mailto:quydx.work@gmail.com" target="_blank">
+  <a href="mailto:quydx.work@gmail.com" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
   </a>
 </div>
