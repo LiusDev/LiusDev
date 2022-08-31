@@ -53,12 +53,5 @@
   </a>
 </div>
 
-<br>
-<h2 align="center">✍️ Random Dev Quote ✍️</h2>
-<br>
-<div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</div>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=LiusDev&icon=0&color=0)](https://visitcount.itsvg.in)
