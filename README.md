@@ -25,12 +25,12 @@
 <div align=center>
   &nbsp;
   <a href="#" title="LiusDev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiusDev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiusDev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   </a>
   &nbsp;
   &nbsp;
   <a href="#" title="LiusDev">
-    <img width="434" align="center" src="https://github-readme-stats.vercel.app/api?username=LiusDev&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+    <img width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=LiusDev&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
   </a>
   &nbsp;
 </div>
