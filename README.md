@@ -22,7 +22,7 @@
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
-<div align=center height="180">
+<div align=center>
   &nbsp;
   <a href="#" title="LiusDev">
     <img width="315" height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiusDev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
