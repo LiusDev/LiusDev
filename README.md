@@ -30,7 +30,7 @@
   &nbsp;
   &nbsp;
   <a href="#" title="LiusDev">
-    <img width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=LiusDev&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=LiusDev&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
   </a>
   &nbsp;
 </div>
