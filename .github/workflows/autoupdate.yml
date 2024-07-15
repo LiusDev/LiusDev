@@ -17,4 +17,4 @@ jobs:
         with:
           user_id: ${{ secrets.USER_ID }}
           commit_message: "feat: update README.md"
-          type: "wide"
+          type: wide
