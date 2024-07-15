@@ -8,7 +8,8 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
-  &nbsp;
+  <img src="./isocalendar.svg">
+  <br>
   <a href="#" title="LiusDev">
     <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiusDev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   </a>
@@ -18,7 +19,7 @@
     <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=LiusDev&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
   </a>
   &nbsp;
-  <img src="./isocalendar.svg">
+  &nbsp;
 </div>
 
 <br>
